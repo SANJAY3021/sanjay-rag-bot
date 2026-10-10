@@ -1,0 +1,7 @@
+My Personal RAG Chatbot
+
+A Retrieval-Augmented Generation chatbot answers questions using information from uploaded documents.
+
+FAISS is used to search for relevant text.
+Sentence Transformers creates numerical embeddings.
+Streamlit provides the user interface.
